@@ -1,0 +1,36 @@
+# Miscellaneous
+.DS_Store
+.env
+.env*.local
+.pnp
+.pnp.js
+*.pem
+
+# Next
+.next
+out
+
+# Node
+node_modules
+npm-debug.log*
+
+# Production
+build
+
+# Testing
+coverage
+
+# Typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# Vercel
+.vercel
+
+# Visual Studio Code
+.vscode
+
+# Yarn
+.yarn/install-state.gz
+yarn-debug.log*
+yarn-error.log*
